@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.jsu.mcis.TicTacToeModelTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2017-09-25T12:21:03" hostname="LAPTOP-OPK6LC6L" time="0.031">
+  <properties/>
+  <testcase name="testGameIsWonByXDiagonallyFromTopLeftToBottomRight" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.006"/>
+  <testcase name="testGameIsOverByTieIfAllLocationsAreFilled" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.001"/>
+  <testcase name="testGameIsWonByOWithFirstCol" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.0"/>
+  <testcase name="testGameIsWonByXHorizontallyAcrossTopRow" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.0"/>
+  <testcase name="testOutOfBoundsMark" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.006"/>
+  <testcase name="testMarkXInUpperRightCorner" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.001"/>
+  <testcase name="testGameisWonByODiagonallyFromBottomLeftToTopRight" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.0"/>
+  <testcase name="testMarkOInBottomLeftCorner" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.001"/>
+  <testcase name="testInitialBoardIsEmpty" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.001"/>
+  <testcase name="testXWinDiagonallyFromTopLeftToBottomRightOn5x5Board" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.002"/>
+  <testcase name="testGameIsNotOverAfterTheFirstMark" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.0"/>
+  <testcase name="testUnableToMarkOverExistingMark" classname="edu.jsu.mcis.TicTacToeModelTest" time="0.0"/>
+  <system-out><![CDATA[Col is not within grind bounds
+Row is not within grid bounds
+Col is not within grind bounds
+Row is not within grid bounds
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

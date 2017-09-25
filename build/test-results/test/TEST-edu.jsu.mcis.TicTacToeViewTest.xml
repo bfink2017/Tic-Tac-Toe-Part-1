@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.jsu.mcis.TicTacToeViewTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-09-25T00:34:14" hostname="LAPTOP-OPK6LC6L" time="0.003">
+  <properties/>
+  <testcase name="testViewOfBlankGrid" classname="edu.jsu.mcis.TicTacToeViewTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
